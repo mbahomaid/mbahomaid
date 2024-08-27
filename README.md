@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Mustafa Bahomaid.
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning CSS.
-- 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me? @mustafabahomaid on X.
 - 😄 Pronouns: he/him
 
