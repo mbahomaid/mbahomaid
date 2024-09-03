@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mustafa Bahomaid.
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning CSS & JavaScript.
+- 🌱 I’m currently learning JavaScript.
 - 📫 How to reach me? @mustafabahomaid on X.
 - 😄 Pronouns: he/him
 
