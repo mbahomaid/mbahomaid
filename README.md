@@ -1,7 +1,9 @@
 # Welcome to My GitHub Profile 👋
 
 
-Hi there! I'm a passionate **Backend Developer** specializing in **C#**, **SQL Server**, and **ASP.NET**. I'm dedicated to building **scalable**, **secure**, and **high-performance** solutions that solve real-world problems. Whether it's optimizing databases, developing lightning-fast APIs, or creating sleek backend systems, I love crafting clean and efficient code. 💻🚀
+Hi there! I'm a passionate **Backend Developer** specializing in **C#**, **SQL Server**, and **ASP.NET**. I'm dedicated to building **scalable**, **secure**, and **high-performance** solutions that solve real-world problems.
+
+Whether it's optimizing databases, developing lightning-fast APIs, or creating sleek backend systems, I love crafting clean and efficient code. 💻🚀
 
 
 ## 🚀 What I Do
@@ -15,7 +17,6 @@ Hi there! I'm a passionate **Backend Developer** specializing in **C#**, **SQL S
 
 - **Open Source Contributions**: I'm constantly contributing to the open-source community, sharing solutions and tools to help fellow developers.
 
-  
 
 ## 🔧 Tech Stack
 
