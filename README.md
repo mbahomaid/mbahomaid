@@ -63,9 +63,7 @@ I'm honored to be ranked among the top committers worldwide!  
 
 Want to collaborate or just say hi?  
 
-Feel free to reach out via:
-
-[Twitter](https://www.x.com/mustafabahomaid)
+Feel free to reach out via [Twitter](https://www.x.com/mustafabahomaid)
 
 
 ---
