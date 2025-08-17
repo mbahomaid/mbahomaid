@@ -2,7 +2,7 @@
 
 Aspiring JavaScript developer — learning by building, breaking, and fixing.
 
-Currently diving deep into **React**, **TypeScript**, and real-world projects like my 💸 [Expense Tracker](github.com/mbahomaid/expense-tracker).
+Currently diving deep into **React**, **TypeScript**, and real-world projects like my 💸 [Expense Tracker](https://github.com/mbahomaid/expense-tracker).
 
 ## 🚀 What I'm Up To
 
